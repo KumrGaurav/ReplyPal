@@ -1,0 +1,26 @@
+@import "../../vars.css";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 200px;
+  border-radius: 10px;
+  background: rgb(243, 104, 128);
+  box-shadow: 0 16px 14px 0 #04152d;
+  padding: 17px 28px;
+  
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.description {
+  margin-top: 6px;
+  font-size: 15px;
+  font-weight: 400;
+  text-align: center;
+}

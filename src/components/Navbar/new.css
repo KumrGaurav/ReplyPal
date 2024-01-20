@@ -1,0 +1,11 @@
+.frame {
+    display: inline-block;
+    border: none;
+    padding: 10px;
+  }
+  
+  .frame img {
+    width: 150px;
+    height: auto;
+    display: block;
+  }
